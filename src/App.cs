@@ -71,9 +71,9 @@ nav ul li a:hover {
     position: absolute;
     top: 60px;
     right: 0;
+height: 300px;
     width: 100%;
     background-color: #495e57;
-height: 400px;
 z-index: 10002;
     transition: all 0.3s ease-in-out;
   }
